@@ -1,4 +1,6 @@
 # 🚗 Système RAG - Analyse de Documents d'Assurance Automobile en Tunisie
+![image1](https://github.com/user-attachments/assets/9049323f-f7ff-4a00-9e03-0281ec25af25)
+![image1](https://github.com/user-attachments/assets/c54d2dde-f99c-4bd3-a91b-a785041e989e)
 
 Un système de Retrieval-Augmented Generation (RAG) avancé pour l'analyse intelligente de documents d'assurance avec recherche hybride et génération de réponses par IA.
 
