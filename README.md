@@ -8,10 +8,6 @@ Un système de Retrieval-Augmented Generation (RAG) avancé pour l'analyse intel
 - [Architecture et techniques](#architecture-et-techniques)
 - [Technologies utilisées](#technologies-utilisées)
 - [Pipeline de traitement](#pipeline-de-traitement)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Métriques d'évaluation](#métriques-dévaluation)
-- [Structure du projet](#structure-du-projet)
 
 ---
 
